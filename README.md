@@ -1,2 +1,2 @@
 # rhinestone-art
-Transform images to Rhinestone Artwork using K-Means Clustering
+Transform images to templates for Rhinestone Artwork using K-Means Clustering
